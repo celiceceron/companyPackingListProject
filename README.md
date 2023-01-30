@@ -11,7 +11,7 @@ During the studies on HTML fundamentals, the site was created to demonstrate how
 ![Web 1](webPage.png)
 
 
-# Used languages
+# Technologies and tools I use:
 ## Front end
 - HTML
 - CSS 
