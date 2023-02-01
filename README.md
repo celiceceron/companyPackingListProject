@@ -6,7 +6,7 @@ This project is part of Codecademy's Bootcamp.
 During the studies on HTML fundamentals, the site was created to demonstrate how to include tables in the web page. <br>
 https://codepen.io/celiceceron/full/ZEjRJoZ
 
-## Layout web
+## Web page
 ![Web 1](https://github.com/celiceceron/companyPackingListProject/blob/f5b3c8c29cde503d3a38535ad515cf61029b601d/webPage.png)
 
 
