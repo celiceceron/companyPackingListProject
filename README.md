@@ -12,7 +12,7 @@ https://codepen.io/celiceceron/full/ZEjRJoZ
 
 # Technologies and tools I use
 ## Front end
-- HTML
+- HTML5
 - CSS 
 
 # Autor
